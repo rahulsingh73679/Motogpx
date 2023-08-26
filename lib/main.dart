@@ -4,7 +4,7 @@ import 'package:webview_flutter/webview_flutter.dart';
 void main() {
   runApp(MaterialApp(
     home: Scaffold(
-        appBar: AppBar(title: Text("Motogpx Developed By Shlok Kumar Das")),
+        appBar: AppBar(title: Text("Motogpx Developed By Rahul Kumar")),
         body: WebView(
             initialUrl: "https://poki.com/en/g/moto-x3m",
             javascriptMode: JavascriptMode.unrestricted)),
